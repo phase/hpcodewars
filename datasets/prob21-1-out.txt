@@ -1,0 +1,20 @@
+JOURNEY from Sol to Alpha-Centauri, max jump: 5 LY
+STRAIGHT LINE DISTANCE: 4.39 LY
+number of jumps: 1
+Sol to Alpha-Centauri; 4.39 LY
+Total Distance: 4.39 LY
+
+JOURNEY from Teegarden's-star to Sirius, max jump: 5 LY
+STRAIGHT LINE DISTANCE: 12.00 LY
+No route from Teegarden's-star to Sirius
+
+JOURNEY from Groombridge-34 to Alpha-Centauri, max jump: 9 LY
+STRAIGHT LINE DISTANCE: 15.66 LY
+number of jumps: 5
+Groombridge-34 to Teegarden's-star; 8.75 LY
+Teegarden's-star to Epsilon-Eridani; 5.92 LY
+Epsilon-Eridani to Sirius; 7.85 LY
+Sirius to Luhman-16; 7.74 LY
+Luhman-16 to Alpha-Centauri; 3.63 LY
+Total Distance: 33.89 LY
+

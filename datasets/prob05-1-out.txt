@@ -1,0 +1,3 @@
+CORRECT 7
+goodbyeLetters 14
+TheQuickBrownFoxJumpsOverTheLazyDog 35

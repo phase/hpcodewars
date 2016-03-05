@@ -1,0 +1,34 @@
+JOURNEY from HR7898 to Psi-Capricorni, max jump: 3 LY
+STRAIGHT LINE DISTANCE: 1.68 LY
+number of jumps: 1
+HR7898 to Psi-Capricorni; 1.68 LY
+Total Distance: 1.68 LY
+
+JOURNEY from Errai to Zeta-Reticuli, max jump: 25 LY
+STRAIGHT LINE DISTANCE: 80.34 LY
+number of jumps: 7
+Errai to 19-Draconis; 24.43 LY
+19-Draconis to Theta-Bootis; 19.53 LY
+Theta-Bootis to Chara; 24.33 LY
+Chara to Gilese-687; 20.32 LY
+Gilese-687 to Epsilon-Eridani; 21.76 LY
+Epsilon-Eridani to 82-Eridani; 12.47 LY
+82-Eridani to Zeta-Reticuli; 21.84 LY
+Total Distance: 144.69 LY
+
+JOURNEY from Vega to Capella, max jump: 14 LY
+STRAIGHT LINE DISTANCE: 50.45 LY
+No route from Vega to Capella
+
+JOURNEY from Sirius to Pollux, max jump: 21 LY
+STRAIGHT LINE DISTANCE: 28.56 LY
+number of jumps: 7
+Sirius to Sol; 8.60 LY
+Sol to Gilese-687; 14.79 LY
+Gilese-687 to Chara; 20.32 LY
+Chara to 36-Ursae-Majoris; 20.56 LY
+36-Ursae-Majoris to Iota-Ursae-Majoris; 13.78 LY
+Iota-Ursae-Majoris to Rho-1-Cancri; 16.64 LY
+Rho-1-Cancri to Pollux; 11.95 LY
+Total Distance: 106.64 LY
+

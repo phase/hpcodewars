@@ -1,0 +1,5 @@
+4
+Sol                     00 00.0 +00 00  G2V            4.83 0.00
+Alpha-Centauri          14 39.6 -60 50  G2V+K1V+M5.5V  4.06 4.39
+Sirius                  06 45.1 -16 42  A1V+DA2        1.43 8.60
+Teegarden's-star        02 53.0 +16 53  M6             17.22 12.51

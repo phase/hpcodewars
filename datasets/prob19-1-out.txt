@@ -1,0 +1,15 @@
+[UberHammerOfPoundation]
+BlackDye 1
+IceCrystal 105
+IridiumNugget 20
+IronLump 36
+MagnesiumDust 30
+PlatinumFlake 15
+RawhideStrap 1
+RollDuctTape 1
+[UberShovelBlade]
+IceCrystal 60
+IridiumNugget 11
+IronLump 20
+MagnesiumDust 15
+PlatinumFlake 8

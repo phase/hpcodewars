@@ -1,0 +1,13 @@
+9
+UberHammerOfPoundation 3 1 UberHammerHead 1 UberShaft 1 UberHandle
+UberShaft 3 3 IronIcicle 1 IridiumBar 1 MarkOfUber
+UberHammerHead 3 1 MarkOfUber 4 IronIcicle 1 IridiumBall
+UberShovelBlade 3 1 MarkOfUber 1 IridiumBar 4 IronIcicle
+IronIcicle 2 5 IronLump 15 IceCrystal
+MarkOfUber 3 7 PlatinumFlake 15 MagnesiumDust 1 IridiumNugget
+IridiumBar 2 10 IridiumNugget 1 PlatinumFlake
+IridiumBall 2 8 IridiumNugget 1 IronLump
+UberHandle 3 1 RawhideStrap 1 BlackDye 1 RollDuctTape
+UberHammerOfPoundation
+UberShovelBlade
+GO

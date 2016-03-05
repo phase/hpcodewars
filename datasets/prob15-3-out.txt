@@ -1,0 +1,35 @@
+Start
+G G
+G G
+
+R
+G Y
+G Y
+
+L
+W Y
+W Y
+
+U
+R R
+W Y
+
+D
+R R
+O O
+
+F
+O R
+O R
+
+B
+O R
+O R
+
+L
+Y R
+Y R
+
+D
+Y R
+G G

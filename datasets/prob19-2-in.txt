@@ -1,0 +1,13 @@
+9
+BlitzStomper 2 2 StingBinder 1 ZapPopper
+StingBinder 2 3 AuroraToken 4 HyperGem
+ZapPopper 2 1 DodecaOrb 2 ZapCrystal
+DodecaOrb 2 12 PentaCrytal 3 SilverEye
+SilverEye 2 16 SilverSliver 2 IridiumNugget 
+PentaCrytal 1 5 MoonBeamCrystal
+ZapCrystal 2 2 UberMondShine 1 SilverEye
+AuroraToken 3 1 GoldNugget 3 PaladiumNodule 6 PentaCrytal
+HyperGem 3 2 Ruby 3 Diamond 1 Sapphire 
+BlitzStomper
+StingBinder
+GO

@@ -1,0 +1,17 @@
+[BlitzStomper]
+Diamond 24
+GoldNugget 6
+IridiumNugget 10
+MoonBeamCrystal 240
+PaladiumNodule 18
+Ruby 16
+Sapphire 8
+SilverSliver 80
+UberMondShine 4
+[StingBinder]
+Diamond 12
+GoldNugget 3
+MoonBeamCrystal 90
+PaladiumNodule 9
+Ruby 8
+Sapphire 4

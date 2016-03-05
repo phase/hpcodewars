@@ -1,0 +1,14 @@
+likes REXX
+hates COBOL
+hates JAVA
+likes PROCESSING
+likes POWERSHELL
+hates PYTHON
+likes SMALLTALK
+hates RUBY
+likes HASKELL
+likes ASSEMBLY
+hates FORTRAN
+hates PASCAL
+likes EIFFEL
+hates BASIC

@@ -1,0 +1,5 @@
+A 6x16x14 block is PERFECT.
+A 9x9x9 block is MORE than perfect.
+A 8x14x4 block is MORE than perfect.
+A 24x22x5 block is PERFECT.
+A 10x10x10 block is LESS than perfect.

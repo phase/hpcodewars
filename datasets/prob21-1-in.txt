@@ -1,0 +1,15 @@
+10
+Sol                      G2V                   4.83    0.000    0.000    0.000
+Alpha-Centauri           G2V+K1V+M5.5V         4.06   -1.641   -1.372   -3.833
+Luhman-16                L8+T1                14.20   -3.751    1.195   -5.285
+Sirius                   A1V+DA2               1.43   -1.611    8.078   -2.471
+Epsilon-Eridani          K2V                   6.18    6.201    8.296   -1.724
+Groombridge-34           M1+M3                10.32    8.329    0.670    8.074
+Epsilon-Indi             K4V+T1+T6             6.89    5.660   -3.157   -9.897
+Tau-Ceti                 G8V                   5.68   10.283    5.021   -3.267
+Teegarden's-star         M6                   17.22    8.719    8.202    3.633
+Kapteyn's-Star           M1                   10.87    1.890    8.834   -9.039
+3
+Sol                      Alpha-Centauri                     5
+Teegarden's-star         Sirius                             5
+Groombridge-34           Alpha-Centauri                     9

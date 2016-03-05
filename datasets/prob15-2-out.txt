@@ -1,0 +1,27 @@
+Start
+G G
+G G
+
+F
+G G
+G G
+
+B
+G G
+G G
+
+L
+R G
+O G
+
+R
+R R
+O O
+
+U
+W W
+O O
+
+D
+W W
+Y Y

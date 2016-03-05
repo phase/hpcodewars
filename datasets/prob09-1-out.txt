@@ -1,0 +1,3 @@
+A 5x6x7 block is MORE than perfect
+A 10x11x12 block is LESS than perfect
+A 8x10x12 block is PERFECT

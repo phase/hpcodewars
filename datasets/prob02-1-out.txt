@@ -1,0 +1,3 @@
+1750 gallons per week will last 5 weeks
+1000 gallons per week will last 10 weeks
+4325 gallons per week will last 2 weeks

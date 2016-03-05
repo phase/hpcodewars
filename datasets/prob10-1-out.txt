@@ -1,0 +1,15 @@
+Player O won.
+=XX
+$$$
+XOX
+
+Player X won.
+$O=
+O$=
+XO$
+
+There was a tie.
+XOX
+OOX
+XXO
+
