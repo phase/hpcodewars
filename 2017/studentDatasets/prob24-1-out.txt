@@ -1,0 +1,9 @@
+4K 1X 2R 6C 5G 0J 3C 
+
+All rotations are here.  Remember to orient your center hex with lowest character on right:
+1 F 5 K 4 M 6 G 3 V 2 W 0 G 
+0 W 2 X 3 G 6 M 4 D 5 F 1 C 
+5 B 3 Q 1 W 6 T 0 N 4 T 2 M 
+4 K 1 X 2 R 6 C 5 G 0 J 3 C 
+3 J 0 D 5 C 6 R 2 N 1 K 4 S 
+2 T 4 V 0 T 6 W 1 M 3 B 5 S 
